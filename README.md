@@ -1,1 +1,1 @@
-# Simple-Linear-Regression
+# Regression-Algorithm
